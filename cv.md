@@ -5,8 +5,10 @@
 
 * **github**: xanram
 
+* **discord**: Oleksandr Paramonov (@xanram) 
+
 ## About
-> My goal is to learn programming and get a job. My strengths: perseverance, resistance to stress, attentiveness, concentration, good interaction with other people. For me, programming is a new and interesting field of activity, but I try to develop myself.
+> My goal is to learn programming and get a job. My strengths: perseverance, resistance to stress, attentiveness, concentration, good interaction with other people. For me, programming is a new and interesting field of activity, I try to develop and look for new opportunities.
 
 ## Skills 
 * **HTML** (Basic)
@@ -23,7 +25,19 @@
 
 
 ## Code Example
-`console.log('Hello, World!');`
+```
+let n = 10;
+
+nextPrime:
+for (let i = 2; i <= n; i++) { // Для всех i...
+
+  for (let j = 2; j < i; j++) { // проверить, делится ли число..
+    if (i % j == 0) continue nextPrime; // не подходит, берём следующее
+  }
+
+  alert( i ); // простое число
+}
+```
 
 ## Experience
 * *metal factory*
