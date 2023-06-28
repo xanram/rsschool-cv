@@ -1,32 +1,42 @@
-Oleksandr Paramonov
+# Oleksandr Paramonov 
 
-Contacts
-Email: johnjameshugges@gmail.com
-GitHub: xanram
+## Contacts
+* **email**: johnjameshugges@gmail.com
 
-About
-My goal is to learn programming and get a job.
-My strengths: perseverance, resistance to stress, attentiveness, concentration, good interaction with other people. 
-For me, programming is a new and interesting field of activity, but I try to develop myself.
+* **github**: xanram
 
-Skills 
-HTML (Basic)
-CSS (Basic)
-JavaScript (Basic)
-Git (Basic)
-Figma
-Photoshop
+## About
+> My goal is to learn programming and get a job. My strengths: perseverance, resistance to stress, attentiveness, concentration, good interaction with other people. For me, programming is a new and interesting field of activity, but I try to develop myself.
 
-Code Example
+## Skills 
+* **HTML** (Basic)
 
-Experience
-metal factory
-teacher and music player
+* **CSS** (Basic)
 
-Education
-Universities: National Technical University
-Universities: Music Academy
-Courses: RS School
+* **JavaScript** (Basic)
 
-English level
-learn english with lessons on youtube (A1)
+* **Git** (Basic)
+
+* **Figma**
+
+* **Photoshop**
+
+
+## Code Example
+`console.log('Hello, World!');`
+
+## Experience
+* *metal factory*
+* *teacher and music player*
+
+## Education
+* **Universities**: *National Technical University*
+
+* **Universities**: *Music Academy*
+
+* **Courses**: *RS School*
+
+## Language
+* *Russian*
+* *Ukrainian*
+* *English A1*
